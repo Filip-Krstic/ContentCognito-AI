@@ -146,9 +146,9 @@ The project operates through a meticulously designed sequence of steps, managed 
 └── c*.png / c*.mp4         # Cropped image/video outputs for analysis
 
 
-## Contribution & Further Research
+## Further Research
 
-We welcome contributions to enhance **ReelInsight AI**. Feel free to fork the repository, propose improvements, or report issues. As this project is primarily for research, we encourage collaboration on expanding its capabilities or leveraging it for new academic inquiries.
+This project is primarily for research.
 
 ## License
 
