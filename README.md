@@ -131,14 +131,13 @@ The project operates through a meticulously designed sequence of steps, managed 
 ├── view_factsheet.py           # GUI for visualizing the comprehensive analytical factsheet
 ├── README.md                   # This documentation file
 ├── requirements.txt            # Python package dependencies
-├── .gitignore                  # Files/folders to be ignored by Git
 ├── LICENSE                     # Project's open-source license (MIT)
 ├── configurables/              # Directory for project configuration data
 │   ├── hashtag.txt             # Example: List of hashtags to monitor
 │   └── getout.txt              # Example: Coordinates for "get out" button or similar
 ├── data/                       # Directory for machine learning models and related data
 │   ├── tfidf_vectorizer.joblib # Pre-trained TF-IDF vectorizer for text feature extraction
-│   └── mbti_model.joblib       # Your custom-trained MBTI classification model
+│   └── mbti_model.joblib       # Custom-trained MBTI classification model
 └── temp_out/                   # Temporary output directory (Ignored by Git)
 ├── p-info.db               # SQLite database storing all extracted raw and processed data
 ├── prof.png                # User-defined profile image for content matching
